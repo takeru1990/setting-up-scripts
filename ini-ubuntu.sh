@@ -1,6 +1,7 @@
 # Ubuntu initial setting 
 
 # Connect to Ubuntu LivePatch 
+# Create Ubuntu One account to get a token on https://ubuntu.com/advantage
 sudo ua attach [YOUR TOKEN]
 
 # Change directory name
