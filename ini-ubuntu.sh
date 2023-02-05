@@ -15,6 +15,7 @@ sudo snap install slack
 sudo snap install blender --classic
 sudo snap install audacity
 sudo snap install gnome-boxes
+sudo snap install inkscape
 
 
 # APT app install
@@ -23,7 +24,6 @@ sudo apt install fontforge
 sudo apt install git
 sudo apt install gnome-tweaks
 sudo apt install gnome-text-editor
-sudo apt install inkscape
 sudo apt install kazam
 sudo apt install pavucontrol
 
