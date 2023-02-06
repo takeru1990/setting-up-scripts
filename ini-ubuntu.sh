@@ -7,6 +7,9 @@ sudo ua attach [YOUR TOKEN]
 # Change directory name
 LANG=C xdg-user-dirs-gtk-update
 
+# Isolate workspaces
+gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces true
+
 # snap app install
 sudo snap install gimp
 sudo snap install kdenlive
