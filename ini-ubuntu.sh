@@ -14,7 +14,6 @@ gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces true
 sudo snap install gimp
 sudo snap install kdenlive
 sudo snap install obs-studio
-sudo snap install slack
 sudo snap install blender --classic
 sudo snap install audacity
 sudo snap install gnome-boxes
@@ -33,4 +32,4 @@ sudo apt install pavucontrol
 
 # Install manually
 # Google Chrome
-
+# Slack
