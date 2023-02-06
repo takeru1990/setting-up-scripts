@@ -18,10 +18,10 @@ sudo snap install slack
 sudo snap install blender --classic
 sudo snap install audacity
 sudo snap install gnome-boxes
-sudo snap install inkscape
 
 
 # APT app install
+sudo apt install inkscape
 sudo apt install ffmpeg
 sudo apt install fontforge
 sudo apt install git
