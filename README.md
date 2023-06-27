@@ -1,7 +1,7 @@
 # setting-up-scripts
 My Linux setting up scripts for Ubuntu and Fedora
 
-# ini-ubuntu.sh
+# setup-ubuntu.sh
 This script sets up Ubuntu for me installing:
 - GNOME Text Editor
 - GIMP
