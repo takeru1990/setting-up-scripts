@@ -1,3 +1,6 @@
+# Use English Name for Home Directory
+LANG=C xdg-user-dirs-gtk-update
+
 # Enable RPMFusion repositories
 sudo dnf install \
   https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
