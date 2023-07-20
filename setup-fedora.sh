@@ -23,6 +23,7 @@ sudo dnf install obs-studio
 sudo dnf install pitivi
 sudo dnf install gnome-extensions-app
 sudo dnf install ibus-mozc langpacks-ja
+sudo dnf install google-chrome-stable
 
 # Install Ubuntu fonts
 wget https://assets.ubuntu.com/v1/0cef8205-ubuntu-font-family-0.83.zip
