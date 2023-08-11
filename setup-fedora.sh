@@ -27,7 +27,7 @@ sudo dnf install pitivi
 sudo dnf install gnome-extensions-app
 sudo dnf install ibus-mozc langpacks-ja
 sudo dnf install google-chrome-stable
-sudo dnf install ulauncher
+sudo dnf install ulauncher # Needs to set keyboard shortcut
 
 
 # Install Ubuntu fonts
