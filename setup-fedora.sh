@@ -12,6 +12,9 @@ sudo dnf install gstreamer1-plugins-{bad-\*,good-\*,base} gstreamer1-plugin-open
 sudo dnf install lame\* --exclude=lame-devel
 sudo dnf group upgrade --with-optional Multimedia
 
+# Install PulseAudio Bluetooth Library
+sudo yum install pulseaudio-module-bluetooth
+
 # Install librosa for Pitivi
 pip install librosa
 
