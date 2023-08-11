@@ -27,6 +27,8 @@ sudo dnf install pitivi
 sudo dnf install gnome-extensions-app
 sudo dnf install ibus-mozc langpacks-ja
 sudo dnf install google-chrome-stable
+sudo dnf install ulauncher 
+
 
 # Install Ubuntu fonts
 wget https://assets.ubuntu.com/v1/0cef8205-ubuntu-font-family-0.83.zip
